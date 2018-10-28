@@ -1,2 +1,1 @@
-# flask-webapp
-webapp with minimal functionality
+Just a simple web application with basic functionality using python-Flask
